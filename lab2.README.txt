@@ -1,0 +1,17 @@
+Greg Basile, February 24, 2015, 
+
+
+
+
+Uses a webgl setup. Then creates four vertices and four colors. 
+It sets
+those vertices and colors to a buffer, then sends those to the vertex shader. 
+
+
+Uses a matrix and translate function to move the components around. 
+
+
+
+Animates when the browser auto refreshes.
+
+
